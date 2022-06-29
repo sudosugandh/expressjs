@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  h1 Shaka, When the Walls Fell
+
+
+  p Programmers don't burn out on hard work, they burn out on change-with-the-wind directives and not 'shipping'.” “The most powerful tool we have as developers is automation.” “The key in such a transition to continuous delivery is to expect things to get worse before you'll be able to make them bette 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  p Darmok and Jalad on the ocean
+  .stars
+  .twinkling
+  .clouds
